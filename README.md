@@ -23,6 +23,6 @@ All visualizations were created using *matplotlib* and *seaborn* for clarity and
 - There's a *moderate positive correlation* between age and salary.
 
 ## Files Included
-- ABC_Employee_Analysis.ipynb – Jupyter Notebook with all code and visualizations
-- employee_data.csv – The cleaned dataset
+- python__code.ipynb – Jupyter Notebook with all code and visualizations
+- myexcel – The dataset
 
